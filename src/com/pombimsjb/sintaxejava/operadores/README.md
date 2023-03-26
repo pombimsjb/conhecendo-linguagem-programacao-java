@@ -1,0 +1,1 @@
+# Nesta aula foi apresentado o significado dos símbolos especiais de acordo com a linguagem de programação Java.

@@ -1,0 +1,1 @@
+# Ao fim das Aulas foi comprendido sobre variáveis e como utilizar variaveis que não alteram seu valor
