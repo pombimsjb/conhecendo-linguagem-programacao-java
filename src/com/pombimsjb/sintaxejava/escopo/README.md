@@ -1,0 +1,1 @@
+# Nesta aula foi apresentado o conceito de escopos e como identificar a localização mais conveniente para a escrita de algoritmos necessários para o programa.
